@@ -4,7 +4,7 @@ import { Link } from "react-router-dom"
 import "./ImageList.css"
 
 const ImageList = ({ images }) => {
-  console.log(images)
+  //console.log(images)
   return (
     <div className="container">
       <div className="row">
