@@ -4,11 +4,7 @@ import ImageList from '../ImageList/ImageList';
 import ImageSearch from '../ImageSearch/ImageSearch';
 import  REACT_APP_API_KEY from '../../config/keys';
 
-// const API_KEY = '17505546-2b462b24d052c5672d7474755';
-
-// const API_KEY = process.env.REACT_APP_API_KEY;
 const API_KEY = REACT_APP_API_KEY;
-// console.log(API_KEY);
 
 class App extends React.Component {
 	state = {
