@@ -1,5 +1,5 @@
 
-Live Project Link : https://pixabay-image-search-app.netlify.app/{target="_blank"}
+Live Project Link : https://pixabay-image-search-app.netlify.app/
 
 
 
