@@ -1,5 +1,7 @@
 
-Live Project Link : https://pixabay-image-search-app.netlify.app/
+<!-- Live Project Link : https://pixabay-image-search-app.netlify.app/ -->
+
+[go](https://pixabay-image-search-app.netlify.app/){:target="_blank" rel="noopener"}
 
 
 
