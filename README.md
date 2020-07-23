@@ -1,5 +1,8 @@
 
-Live Project Link : https://pixabay-image-search-app.netlify.app/
+Live Project Link : https://pixabay-image-search-app.netlify.app/{target="_blank"}
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
