@@ -12,7 +12,7 @@ const ImageList = ({ images }) => {
           return (
             <div key={image.id} className="col-md-4" style={{ marginBottom:"2rem" }}>
               <div className="imageList__container">
-                <img className="imageList__image" src={image.largeImageURL} alt={image.tags} />
+                <img className="imageList__image" loading = "lazy" src={image.largeImageURL} alt={image.tags} />
               </div>
               <div className="image__details">
               <Link to={{ 

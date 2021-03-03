@@ -12,7 +12,7 @@ const ImageView = (props) => {
       <div className="row">
         <div className="col-sm-12">
           <div className="imageView__container">
-            <img src={image} alt={tags} className="imageView__img img-responsive" />
+            <img src={image} loading="lazy" alt={tags} className="imageView__img img-responsive" />
             <div className="imageView__copyright">
               <p>&copy;Pixabay</p>
             </div>
